@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
+<h1 align="center">Hey 👋, I'm Simon</h1>
 <h3 align="center">Passionate Learner and Project Enthusiast</h3>
 <img align="right" alt"Casual coding" width="400"
  src="https://images.prismic.io/northcoders/3b1f3e48-98df-44e4-856b-4ad7bf25b94c_a58df3474587baa46eb81415faa143d4.gif?auto=compress%2Cformat&rect=0%2C0%2C500%2C270&w=800&fit=max&q=60">
